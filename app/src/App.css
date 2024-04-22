@@ -39,14 +39,14 @@
 
 .paragrafo{
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-  font-size: 80px;
+  font-size: 40px;
   color: yellow;
 }
 
 .bottone{
   color: yellow;
   font-family: Georgia, 'Times New Roman', Times, serif;
-  font-size: 75px;
+  font-size: 40px;
   border: 3px solid yellow;
   border-radius: 10px;
   background-color: purple;
@@ -54,4 +54,31 @@
 
 body{
   background-color: black;
+}
+
+.carica{
+  color:white;
+  background-color: blue;
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 60px;
+  border: 3px solid white;
+  border-radius: 10px;
+}
+
+.elimina{
+  color:white;
+  background-color: red;
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 40px;
+  border: 3px solid white;
+  border-radius: 10px;
+}
+
+.conferma{
+  color:lightgreen;
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 40px;
 }
